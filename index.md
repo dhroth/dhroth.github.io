@@ -4,7 +4,7 @@ I am a PhD student at UC Berkeley studying machine learning under [Joseph Gonzal
 
 # Publications
 
-\[[arxiv](https://arxiv.org/abs/2001.05685), [PDF](pdfs/sqeezewave.pdf)\]
+\[[arxiv](https://arxiv.org/abs/2001.05685), [PDF](pdfs/squeezewave.pdf)\]
 Bohan Zhai,<sup>\*</sup> Tianren Gao,<sup>\*</sup> Flora Xue,<sup>\*</sup> Daniel Rothchild, Bichen Wu, Joseph E. Gonzalez, Kurt Keutzer.
 "SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis."
 2020.

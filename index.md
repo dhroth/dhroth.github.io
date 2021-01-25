@@ -8,7 +8,7 @@ I am a PhD student at UC Berkeley studying machine learning under [Joseph Gonzal
 Daniel Rothchild,<sup>\*</sup> Ashwinee Panda,<sup>\*</sup> Enayat Ullah, Nikita Ivkin, Ion Stoica, Vladimir Braverman, Joseph Gonzalez, Raman Arora
 "FetchSGD: Communication-Efficient Federated Learning with Sketching." <i>ICML</i>, 2020
 
-\[[arxiv](https://arxiv.org/abs/2001.05685), [PDF](pdfs/sqeezewave.pdf)\]
+\[[arxiv](https://arxiv.org/abs/2001.05685), [PDF](pdfs/squeezewave.pdf)\]
 Bohan Zhai,<sup>\*</sup> Tianren Gao,<sup>\*</sup> Flora Xue,<sup>\*</sup> Daniel Rothchild, Bichen Wu, Joseph E. Gonzalez, Kurt Keutzer.
 "SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis."
 2020.
@@ -49,3 +49,4 @@ Daniel Rothchild.
 <i>Technology Science</i>, 2015.
 
 
+(page last updated April 2020)

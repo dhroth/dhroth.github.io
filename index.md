@@ -4,6 +4,10 @@ I am a PhD student at UC Berkeley studying machine learning under [Joseph Gonzal
 
 # Publications
 
+\[[arxiv](https://arxiv.org/abs/2007.07682), [ICML](http://proceedings.mlr.press/v119/rothchild20a.html), [PDF](pdfs/fetchsgd.pdf)\]
+Daniel Rothchild,<sup>\*</sup> Ashwinee Panda,<sup>\*</sup> Enayat Ullah, Nikita Ivkin, Ion Stoica, Vladimir Braverman, Joseph Gonzalez, Raman Arora
+"FetchSGD: Communication-Efficient Federated Learning with Sketching." <i>ICML</i>, 2020
+
 \[[arxiv](https://arxiv.org/abs/2001.05685), [PDF](pdfs/sqeezewave.pdf)\]
 Bohan Zhai,<sup>\*</sup> Tianren Gao,<sup>\*</sup> Flora Xue,<sup>\*</sup> Daniel Rothchild, Bichen Wu, Joseph E. Gonzalez, Kurt Keutzer.
 "SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis."
